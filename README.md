@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/burak432](https://github.com/burak432)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **burak.atilla@gmail.com**
 
-- ⚡ Motto **Learning is a journey that has no end**
+- ⚡ My motto : **Learning is a journey that has no end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
