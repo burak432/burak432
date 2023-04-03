@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak432" alt="burak432" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **web projects**
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **burak.atilla@gmail.com**
 
-- ⚡ My motto : **Learning is a journey that has no end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
